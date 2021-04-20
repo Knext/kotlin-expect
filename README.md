@@ -1,5 +1,6 @@
 # kotlin-expect 
 [![Build Status](https://travis-ci.org/odd-poet/kotlin-expect.svg?branch=master)](https://travis-ci.org/odd-poet/kotlin-expect)[![codecov](https://codecov.io/gh/odd-poet/kotlin-expect/branch/master/graph/badge.svg)](https://codecov.io/gh/odd-poet/kotlin-expect)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKnext%2Fkotlin-expect.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKnext%2Fkotlin-expect?ref=badge_shield)
 
 `kotlin-expect` is a assertion library for kotlin test. it's inspried by [Rspec Expectation].
 
@@ -119,3 +120,7 @@ expect(emp) {
 ```
 
 [Rspec Expectation]:https://github.com/rspec/rspec-expectations
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKnext%2Fkotlin-expect.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKnext%2Fkotlin-expect?ref=badge_large)
